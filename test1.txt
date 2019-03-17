@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F02A-C65B
+
+ Directory of C:\Users\thret\Desktop\MyProj
+
+18-Mar-19  02:05 AM    <DIR>          .
+18-Mar-19  02:05 AM    <DIR>          ..
+18-Mar-19  02:05 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  387,497,185,280 bytes free
